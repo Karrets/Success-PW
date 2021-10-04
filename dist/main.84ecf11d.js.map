@@ -1,1 +1,0 @@
-{"version":3,"sources":["js/main.js"],"names":["markActive","console","log"],"mappings":";AAAA,SAASA,IACPC,QAAQC,IAAI","file":"main.84ecf11d.js","sourceRoot":"..","sourcesContent":["function markActive() {\n  console.log(\"oh no\");\n}\n"]}
